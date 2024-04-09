@@ -27,8 +27,8 @@ function App() {
   }
 
   return (
-    <div class="flex justify-center items-center h-screen">
-      <div class="bg-slate-100 m-4 sm:p-8 rounded-lg shadow-lg">
+    <div className="flex justify-center items-center h-screen">
+      <div className="bg-slate-100 m-4 sm:p-8 rounded-lg shadow-lg">
         <div className="m-10 space-y-4">
           <label
             htmlFor="helper-text"
