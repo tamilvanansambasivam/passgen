@@ -23,7 +23,7 @@ function App() {
 
   function copyToClipboard() {
     navigator.clipboard.writeText(password);
-    setCopybtn("Test copied");
+    setCopybtn("Text copied");
   }
 
   return (
